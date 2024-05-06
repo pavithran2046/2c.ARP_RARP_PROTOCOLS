@@ -1,5 +1,8 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+## NAME: PAVITHRAN S
+## REG NO : 212223240113
 ## AIM
+
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
 ## Client:
